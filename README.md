@@ -24,7 +24,3 @@ This repository packages work originally completed as part of Western Governors 
 ![Statistical testing report visual](assets/task2-report-extracts/report_image_01.png)
 
 ![Market basket report visual](assets/task3-report-extracts/report_image_01.png)
-
-## Suggested Next Additions
-- a one-page summary of the main statistical findings
-- top association rules by support, confidence, and lift
