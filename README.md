@@ -1,22 +1,29 @@
 # Statistical Analysis and Market Basket
 
 ## Overview
-This repo groups two analytics projects: statistical hypothesis testing on an insurance dataset and market basket analysis using transaction data. It is a good foundation repo for showing applied statistics and association rule mining.
+This repo groups five analytics projects covering regression modeling, dimensionality reduction, statistical hypothesis testing, and market basket analysis. It demonstrates applied statistics and machine learning across health insurance, housing, and retail transaction datasets.
 
 ## Coursework Context
 This repository packages work originally completed as part of Western Governors University's (WGU) M.S. in Data Analytics program and reorganizes it into a public portfolio format. Screenshots extracted from the original written submissions are preserved in `assets/task2-report-extracts/` and `assets/task3-report-extracts/`.
 
 ## What It Shows
+- linear regression modeling and coefficient interpretation
+- logistic regression for binary classification
+- PCA for dimensionality reduction and variance explanation
 - exploratory data analysis
 - statistical testing and interpretation
 - transaction encoding for basket analysis
 - association rule mining and business interpretation
 
 ## Included Files
+- `notebooks/linear_regression.ipynb`
+- `notebooks/logistic_regression.ipynb`
+- `notebooks/pca_analysis.ipynb`
 - `notebooks/statistical_tests.ipynb`
 - `notebooks/market_basket.ipynb`
+- `data/housing_data.csv`
 - `data/Health Insurance Dataset.xlsx`
-- `data/Megastore_Dataset_Task_3_3.csv`
+- `data/megastore_transactions.csv`
 - `requirements.txt`
 
 ## Results
