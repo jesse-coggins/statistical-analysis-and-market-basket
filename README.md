@@ -4,7 +4,7 @@
 This repo groups five analytics projects covering regression modeling, dimensionality reduction, statistical hypothesis testing, and market basket analysis. It demonstrates applied statistics and machine learning across health insurance, housing, and retail transaction datasets.
 
 ## Coursework Context
-This repository packages work originally completed as part of Western Governors University's (WGU) M.S. in Data Analytics program and reorganizes it into a public portfolio format. Screenshots extracted from the original written submissions are preserved in `assets/task2-report-extracts/` and `assets/task3-report-extracts/`.
+This project was completed as part of my M.S. in Data Analytics program at Western Governors University (WGU). Screenshots from the original written submissions are preserved in `assets/task2-report-extracts/` and `assets/task3-report-extracts/`.
 
 ## What It Shows
 - linear regression modeling and coefficient interpretation
@@ -38,3 +38,7 @@ This repository packages work originally completed as part of Western Governors 
 ![Statistical testing report visual](assets/task2-report-extracts/report_image_01.png)
 
 ![Market basket report visual](assets/task3-report-extracts/report_image_01.png)
+
+---
+
+*\* I used Claude (Anthropic) to help organize and stage this coursework into a GitHub portfolio repository. The analysis, code, and results are entirely my own.*
